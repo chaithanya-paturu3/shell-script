@@ -7,4 +7,4 @@ movies=("pushpa" "devara" "gamechanger")
 # devara = 1
 # gamechanger =2
 
-echo " first movies: $movies
+echo " first movies: $movies"
